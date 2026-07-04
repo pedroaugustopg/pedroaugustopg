@@ -26,4 +26,4 @@
 
 ### Useful links about me
 
-* Personal Site : https://github.com/pedroaugustopg
+* Personal Site: https://github.com/pedroaugustopg
