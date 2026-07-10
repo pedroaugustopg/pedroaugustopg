@@ -15,6 +15,7 @@
 [![](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](#)
 [![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
 [![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![](https://img.shields.io/badge/Spring-43B02A?style=for-the-badge&logo=spring&logoColor=white)](#)
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroaugustopg&theme=github_dark)](#)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroaugustopg&theme=github_dark)](#)
