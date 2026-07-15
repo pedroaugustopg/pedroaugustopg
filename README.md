@@ -13,7 +13,7 @@
 [![](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](#)
 [![](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)](#)
 [![](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](#)
-[![](https://img.shields.io/badge/Rest-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](#)
+[![](https://img.shields.io/badge/Rest-43B02A?style=for-the-badge&logo=Rest&logoColor=white)](#)
 [![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
 [![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![](https://img.shields.io/badge/Spring-43B02A?style=for-the-badge&logo=spring&logoColor=white)](#)
