@@ -15,6 +15,7 @@
 [![](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](#)
 [![](https://img.shields.io/badge/Rest%20Assured-16A085?style=for-the-badge&logo=java&logoColor=white)](#)
 [![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
+[![](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)](#)
 [![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![](https://img.shields.io/badge/Spring-43B02A?style=for-the-badge&logo=spring&logoColor=white)](#)
 
